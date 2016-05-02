@@ -12,7 +12,7 @@ int main ()
     d= (x-(c*100))/10;
     u= x-((c*100)+(d*10));
 
-    if(c==1 && d==2*u)// *inicio bug xor*
+    if(c==1 && d==2*u)//**inicio bug xor**
         printf("%d%d%d\n", c,d-1,u);
     else
     {
