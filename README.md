@@ -1,1 +1,1 @@
-# Ex.11-Nim
+Adaptação do jogo Nim para C, o qual consiste em uma distribuição de 15 palitos em uma ordem 3 5 7 e que cada jogador tem que tirar um ou mais palitos de apenas uma das 3 colunas, perde aquele que tirar o último palito.
